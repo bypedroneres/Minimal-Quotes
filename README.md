@@ -29,7 +29,7 @@ The Quote Generator features a minimalistic design to keep the focus on the quot
 
 <h4>✹ Link to the Project ✹</h4>
 
-<h5>https://bypedroneres.github.io/minimal-quotes/</h5>
+<h5>https://bypedroneres.github.io/Minimal-Quotes/</h5>
 
 <h4>✹ Thanks for your interest! ✹</h4>
 
